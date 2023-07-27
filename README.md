@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966)](https://github.com/ashish-pro)
+[![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://github.com/ashish-pro)
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pro&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-pro" /> </p>
 
