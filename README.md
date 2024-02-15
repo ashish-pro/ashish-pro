@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)](https://github.com/ashish-pro)
+[<img align='center' alt='header' width='100%' height='400' src='https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif' >](https://github.com/ashish-pro/ashish-pro)
 
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
